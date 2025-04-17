@@ -21,3 +21,7 @@
 - Write the api calls GET, POST, PUT , DELETE, PATCH, OPTIONS
 - Explore different type of Routings , ? , \* , +, ()+, regex
 - how to read quary params , dynamic routes
+- Multi Route handlers play with the code
+- next()
+-  next functions along with the res.send();
+-  app.use( 'route' , ["RH1" , "RH2" , "RH3"]) >> Practice
