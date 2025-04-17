@@ -19,3 +19,5 @@
 - Order of the Routes matter a lot
 - Install Postman app and make work space/collection test a api call
 - Write the api calls GET, POST, PUT , DELETE, PATCH, OPTIONS
+- Explore different type of Routings , ? , \* , +, ()+, regex
+- how to read quary params , dynamic routes
